@@ -1,14 +1,14 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Hieu Vu Trung
+position: Data Scientist | PhD Researcher
+affiliation: ADC Energy Ltd. | Robert Gordon University
+email: trunghieu02111998@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Machine Learning, Computer Vision, Predictive Maintenance, AI
+description: Personal academic website of Hieu Vu Trung
+canonical: https://mrtrunghieu1.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
